@@ -7,10 +7,6 @@ import NotFound from './Pages/NotFound';
 
 
 const App = () => {
-
-
-
-  
   return (
     <Router>
       <Routes>
